@@ -1,1 +1,1 @@
-# JSApps
+# JSApps training repo
